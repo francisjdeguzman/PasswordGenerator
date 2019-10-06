@@ -1,0 +1,19 @@
+.content{
+   
+    margin-bottom: 10px;
+    background-color: lightgray;
+    
+  
+}
+
+#display{
+    width: 800px;
+    height: 500px;
+
+}
+
+
+#length{
+    display: inline-block;
+    width: 100px;
+}
